@@ -10,17 +10,17 @@
 +++
 
 初めて登壇したとき
-![1](./images/1.PNG)
+![1](https://github.com/mosmos21/slides/blob/master/20181019/images/1.PNG)
 
 +++
 
 先週登壇したやつ
-![2](./images/2.PNG)
+![2](https://github.com/mosmos21/slides/blob/master/20181019/images/2.PNG)
 
 +++
 
 そして今日
-![3](./images/2.PNG)
+![3](https://github.com/mosmos21/slides/blob/master/20181019/images/3.PNG)
 
 +++
 
@@ -43,7 +43,7 @@
 +++
 
 例えばブログとかもその延長
-![4](./images/4.PNG)
+![4](https://github.com/mosmos21/slides/blob/master/20181019/images/4.PNG)
 
 ---
 
